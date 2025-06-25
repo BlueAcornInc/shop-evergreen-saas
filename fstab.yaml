@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/blueacorninc/shop-evergreen-saas/
+    type: markup
+
+folders:
+  /products/: /products/default
